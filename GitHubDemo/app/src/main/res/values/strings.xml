@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">GitHub Demo</string>
+    
+    <!-- 通用 -->
+    <string name="loading">加载中...</string>
+    <string name="retry">重试</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="back">返回</string>
+    
+    <!-- 首页 -->
+    <string name="home_title">GitHub Demo</string>
+    <string name="search_repositories">搜索仓库</string>
+    <string name="trending_repositories">热门仓库</string>
+    <string name="search_results">搜索结果</string>
+    <string name="programming_language">编程语言:</string>
+    <string name="login">登录</string>
+    
+    <!-- 登录 -->
+    <string name="login_title">登录 GitHub</string>
+    <string name="login_description">登录您的 GitHub 账户以访问个人仓库和创建 Issues</string>
+    <string name="login_with_github">使用 GitHub 登录</string>
+    <string name="login_benefits">登录后您可以：\n• 查看个人仓库\n• 创建和管理 Issues\n• 访问私有仓库</string>
+    <string name="logging_in">正在登录...</string>
+    <string name="login_failed">登录失败</string>
+    <string name="retry_login">重试登录</string>
+    
+    <!-- 个人资料 -->
+    <string name="profile_title">个人资料</string>
+    <string name="my_repositories">我的仓库</string>
+    <string name="logout">退出登录</string>
+    <string name="logout_confirm">确定要退出登录吗？</string>
+    <string name="no_repositories">暂无仓库</string>
+    <string name="repositories">仓库</string>
+    <string name="followers">关注者</string>
+    <string name="following">关注中</string>
+    
+    <!-- 仓库详情 -->
+    <string name="repository_detail">仓库详情</string>
+    <string name="open_in_browser">在浏览器中打开</string>
+    <string name="issues">Issues</string>
+    <string name="create_issue">创建 Issue</string>
+    <string name="no_issues">暂无 Issues</string>
+    <string name="issue_title">标题</string>
+    <string name="issue_description">描述（可选）</string>
+    <string name="creating_issue">创建中...</string>
+    <string name="create">创建</string>
+    <string name="stars">Stars</string>
+    <string name="forks">Forks</string>
+    
+    <!-- 错误信息 -->
+    <string name="network_error">网络错误</string>
+    <string name="load_failed">加载失败</string>
+    <string name="not_logged_in">请先登录</string>
+    <string name="load_user_info_failed">加载用户信息失败</string>
+    <string name="search_failed">搜索失败</string>
+    <string name="load_repositories_failed">获取仓库列表失败</string>
+    <string name="load_repository_failed">获取仓库信息失败</string>
+    <string name="create_issue_failed">创建Issue失败</string>
+    <string name="load_issues_failed">加载 Issues 失败</string>
+    <string name="auth_failed">认证失败</string>
+</resources>
