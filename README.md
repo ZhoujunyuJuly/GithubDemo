@@ -1,4 +1,4 @@
-
+测试APK位置：/GitHubDemo/GithubDemo.apk
 
 ## 主要功能
 
